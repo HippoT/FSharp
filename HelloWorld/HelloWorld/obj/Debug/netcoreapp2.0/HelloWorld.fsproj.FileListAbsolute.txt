@@ -1,0 +1,8 @@
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.deps.json
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.json
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.pdb
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.fsprojAssemblyReference.cache
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\min\Desktop\Workplace\FSharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.pdb
